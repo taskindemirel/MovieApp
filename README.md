@@ -1,10 +1,10 @@
 # MovieApp
 
-This project was developed with React.
+## This project was developed with React.
 
 <br />
 
-• Axios and Redux-Toolkit with Thunk were used to fetch data from omdbapi.
+• Axios and Redux-Toolkit with Thunk were used to fetch data from omdbapi. <br />
 • React-Slick also was used as carousel library.
 
 <br />
