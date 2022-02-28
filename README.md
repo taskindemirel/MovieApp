@@ -1,6 +1,6 @@
 # MovieApp
 
-# This project was developed with React.
+### This project was developed with React.
 
 <br />
 
